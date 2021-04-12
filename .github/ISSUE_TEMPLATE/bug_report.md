@@ -33,4 +33,4 @@ Operating system:
 - [ ] Windows
 - [ ] Linux
 - [ ] MacOS
-- [ ] Other 
+- [ ] Other
